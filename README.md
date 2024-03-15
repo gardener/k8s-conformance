@@ -1,4 +1,5 @@
 # Certified Kubernetes Conformance Program
+[![REUSE status](https://api.reuse.software/badge/github.com/gardener/k8s-conformance)](https://api.reuse.software/info/github.com/gardener/k8s-conformance)
 
 All vendors are invited to submit conformance testing results for review and certification by the CNCF.
 If your company provides software based on Kubernetes, we encourage you to get certified today.

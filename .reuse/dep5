@@ -1,0 +1,11 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Gardener k8s-conformance
+Upstream-Contact: The Gardener project <gardener@googlegroups.com>
+Source: https://github.com/gardener/k8s-conformance
+
+# --------------------------------------------------
+# source code
+
+Files: *
+Copyright: CNCF
+License: Apache-2.0
